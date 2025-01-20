@@ -1,5 +1,5 @@
 <h1>Hi</h1>
-<p>This is the worst Minecraft resource pack ever. If you feel like ruining Minecraft, install this. YOU SHOULD BE SCARED!</p>
+<p>This is the worst Minecraft resource pack ever. If you feel like ruining Minecraft, install this. YOU SHOULD BE SCARED! Btw it is for 1.20.2.</p>
 <br>
 <h3>TNT Sounds</h3>
 <p>We have some great TNT sounds. It makes blowing things up really fun. :)</p>
