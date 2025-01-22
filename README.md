@@ -8,7 +8,7 @@
 <p>We have picked out some trash songs to play on the menu.</p>
 <br>
 <h3>Music Discs</h3>
-<p>Our music discs are great. We replaced 13, 5, Otherside, Cat, Stal, Mellohi, and Mall so try listening to those.</p>
+<p>Our music discs are great. We replaced 13, 5, Cat, Stal, Mellohi, and Mall so try listening to those.</p>
 <br>
 <h3>Various Things</h3>
 <p>We ruined a few other things in the game that you might find. We will update the pack and add more horrible stuff. :)</p>
